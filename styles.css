@@ -1,0 +1,25 @@
+header{
+    text-align: center;
+}
+
+.post{
+    width: 40%;
+    margin: auto;
+    background-color: aqua;
+    margin-bottom: 5px;
+}
+
+.post-header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+img{
+    width: 100%;
+    border-radius: 10%;
+}
+
+.post-footer{
+    padding: 10%;
+}
